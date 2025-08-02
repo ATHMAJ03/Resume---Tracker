@@ -65,4 +65,3 @@ This project is licensed under the MIT License.
 
 Built by ATHMAJ VENUGOPAL
 
-Built by ATHMAJ VENJUGOPAL 
